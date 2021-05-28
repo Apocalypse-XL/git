@@ -1,4 +1,4 @@
-hellogitv
+ihellogitv
 hellogitv
 hellogitv
 hellogitv
@@ -37,3 +37,9 @@ hellogitv
 hellogitv
 ellogitv 22222222222
 hellogitv
+master {
+	int main(void )
+	{
+		print("")
+	}
+}
