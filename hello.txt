@@ -35,5 +35,13 @@ hellogitv
 hellogitv
 hellogitv
 hellogitv
-ellogitv 22222222222
+ellogitv 2
 hellogitv
+public void mian {
+	static main void
+}
+int main(void )
+{
+	if()
+}
+
