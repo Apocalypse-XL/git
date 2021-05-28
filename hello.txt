@@ -43,3 +43,14 @@ master {
 		print("")
 	}
 }
+ellogitv 2
+hellogitv
+public void mian {
+	static main void
+}
+int main(void )
+{
+	if()
+}
+hot-fix(test
+)
